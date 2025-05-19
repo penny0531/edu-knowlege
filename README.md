@@ -90,6 +90,9 @@
 
 ------------------
 
+## 中小学生的教材的Pdf （非常全和庞大），所有小初高、大学PDF教材。
+https://github.com/TapXWorld/ChinaTextbook
+
 ## 「2025中小学网课合集」
 链接：https://pan.quark.cn/s/7925babbe881
 
