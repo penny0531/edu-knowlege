@@ -90,6 +90,9 @@
 
 ------------------
 
+### 「2000年以前老课本」各个科目，70,80,90 年代等等
+链接：https://pan.quark.cn/s/c49dee995a0a
+
 ## 中小学生的教材的Pdf （非常全和庞大），所有小初高、大学PDF教材。
 https://github.com/TapXWorld/ChinaTextbook
 
