@@ -193,9 +193,9 @@ https://github.com/TapXWorld/ChinaTextbook
 
 
 
-# 请喝咖啡谢谢
+# 请喝咖啡
 
 如果您觉得这个项目对您有帮助，您可以扫描以下二维码进行捐赠：
 <p align="left">
-  <img src="my-alipay" width="30%">
+  <img src="my-alipay.png" width="30%">
 </p>
